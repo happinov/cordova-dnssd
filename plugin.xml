@@ -10,7 +10,7 @@
     <author>Jarno Heikkinen</author>
     <license>Apache 2.0</license>
     <keywords>cordova,dnssd,dns-sd,bonjour,discovery</keywords>
-	<repo>https://github.com/coqsenpate/cordova-dnssd/tree/custom</repo>
+	<repo>https://github.com/happinov/cordova-dnssd/tree/custom</repo>
 
     <js-module src="www/dnssd.js" name="dnssd">
         <clobbers target="dnssd" />
