@@ -6,5 +6,12 @@
     "type": "git",
     "url": "git+https://github.com/happinov/cordova-dnssd.git"
   },
-  "homepage": "https://github.com/happinov/cordova-dnssd#readme"
+  "homepage": "https://github.com/happinov/cordova-dnssd#readme",
+  "cordova": {
+      "id": "fi.peekpoke.cordova.dnssd",
+      "platforms": [
+          "ios",
+          "android"
+      ]
+  }
 }
