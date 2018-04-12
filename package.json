@@ -2,11 +2,6 @@
   "name": "fi.peekpoke.cordova.dnssd",
   "version": "0.0.2",
   "description": "Cordova (PhoneGap) plugin for Bonjour based DNS-SD queries. Enables local service discovery on iOS.",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/happinov/cordova-dnssd.git"
-  },
-  "homepage": "https://github.com/happinov/cordova-dnssd#readme",
   "cordova": {
       "id": "fi.peekpoke.cordova.dnssd",
       "platforms": [
@@ -14,5 +9,21 @@
           "android"
       ]
   },
-  "license": "Apache 2.0"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/happinov/cordova-dnssd.git"
+  },
+  "keywords": [
+      "cordova",
+      "dnssd",
+      "dns-sd",
+      "bonjour",
+      "discovery"
+  ],
+  "author": "Jarno Heikkinen",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/happinov/cordova-dnssd/issues"
+  },
+  "homepage": "https://github.com/happinov/cordova-dnssd#readme"
 }
