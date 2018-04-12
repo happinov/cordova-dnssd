@@ -14,7 +14,5 @@
           "android"
       ]
   },
-  "devDependencies": {
-    "cordova": ">=2.9.0"
-  }
+  "license": "Apache 2.0"
 }
