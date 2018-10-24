@@ -21,7 +21,7 @@
       "discovery"
   ],
   "author": "Jarno Heikkinen",
-  "license": "Apache 2.0",
+  "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/happinov/cordova-dnssd/issues"
   },
