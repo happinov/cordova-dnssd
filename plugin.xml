@@ -24,6 +24,10 @@
         </config-file>
         <header-file src="src/ios/dnssd.h" />
         <source-file src="src/ios/dnssd.m" />
+
+        <config-file target="*-Info.plist" parent="NSLocalNetworkUsageDescription">
+            <string>Looking for local Bonjour services.</string>
+        </config-file>
     </platform>
 	<!-- android -->
     <platform name="android">
